@@ -1,15 +1,15 @@
 # Module Api Doc
 
-
+One markdown file should contains the complete public api for a module = openApi for modules.
 First Idea as example SomeClass.md:
 ```
-# Module x --> starts one markdown file and contains its complete public api   = openApi for modules
+# Module x
 
 fun root1(a: Int)
 
 ...
 
-## Subpackage1 --> foldable
+## Subpackage1 --> should be foldable
 
 fun sub1(): String
 
