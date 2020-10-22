@@ -2,12 +2,14 @@
 
 Imagine you have a Swagger documentation (Open Api doc) for every module with source code in your repository. You open a markdown file and see the interface of the module at a glance. No bloating Javadoc/Kdoc anymore. Wouldn't that be great?
 
-Basic window:
+Basic mockup:
+```
  __________________ ______________________
 | Module tree      | Module spec          |
 |                  |                      |
 |                  |                      |
 |__________________|______________________|
+```
 
 ## Module tree
 
