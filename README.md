@@ -1,6 +1,6 @@
-# Module Api Doc
+# Open Module Api Documentation
 
-One markdown file should contains the complete public api for a module = openApi for modules.
+One markdown file should contains the complete public api for a module = Open Api for modules.
 First Idea as example SomeClass.md:
 ```
 # Module x
