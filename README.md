@@ -17,7 +17,7 @@ The module tree is needed in order to navigate through the docs as you used to i
 
 ## Module spec
 
-One markdown file should contains the complete public api for a module = Open Api for modules.
+One markdown file should contains the complete public api for a module.
 First Idea as example SomeClass.md:
 ```
 # Module x
