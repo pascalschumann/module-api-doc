@@ -18,3 +18,11 @@ fun sub2(): SomeClass --> SomeClass should be a link to its spec.
 ...
 
 ```
+
+All referenced types must be linked and therfore stored as an additional file:
+```
+# Data Class A
+
+propertyA: String
+proertyB: Int
+```
