@@ -1,5 +1,7 @@
 # Open Module Api Documentation
 
+Imagine you have a Swagger documentation (Open Api doc) for every module with source code in your repository. You open a markdown file and see the interface of the module at a glance. Wouldn't that be great?
+
 One markdown file should contains the complete public api for a module = Open Api for modules.
 First Idea as example SomeClass.md:
 ```
