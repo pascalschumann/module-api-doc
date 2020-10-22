@@ -13,6 +13,8 @@ fun root1(a: Int)
 
 fun sub1(): String
 
+fun sub2(): SomeClass --> SomeClass should be a link to its spec.
+
 ...
 
 ```
